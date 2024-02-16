@@ -1,0 +1,2 @@
+ - Đây phiên bản cũ của dưới 3.0.0 của SpringBoot
+ - JDK: 1.8 
